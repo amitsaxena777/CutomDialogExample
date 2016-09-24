@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_9_Code/Android Custom Dialog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1c236234ed2839ae47edda37a9e77c411497ca63">
+        <dex dex="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_9_Code/Android Custom Dialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78f7eaef34af2720d9f63d377db91bf385b1bc10/classes.dex" />
+    </item>
+    <item
+        jar="/usr/local/adt/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_9_Code/Android Custom Dialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5eb61865b332feae9894a52b33d2ce7f84f0dbe6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_9_Code/Android Custom Dialog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a8253e2ec03f12b4227be4388c2ef5959be257e2">
+        <dex dex="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_9_Code/Android Custom Dialog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_96506ea7231fbadafed61e5d614b70ced7917492/classes.dex" />
+    </item>
+
+</items>
