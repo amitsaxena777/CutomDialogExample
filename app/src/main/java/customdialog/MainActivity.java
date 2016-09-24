@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.acadgild.customdialog.R;
+import com.learn.customdialog.R;
 
 public class MainActivity extends Activity implements OnClickListener {
 
